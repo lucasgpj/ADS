@@ -14,9 +14,9 @@ app.get("/dashboard", (req, res) => {
 
 app.get("/", (req,res) => {
     const usuario = {
-        nome: "David",
+        nome: "LUCAS",
         profissao: "Programador",
-        idade: 19 
+        idade: 20 
     }
     
     const auth = false
